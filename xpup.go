@@ -7,8 +7,7 @@ import (
 	"io"
 	"os"
 
-	"golang.org/x/net/html/charset"
-
+	"github.com/ericchiang/xpup/Godeps/_workspace/src/golang.org/x/net/html/charset"
 	"github.com/ericchiang/xpup/Godeps/_workspace/src/launchpad.net/xmlpath"
 )
 
