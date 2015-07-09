@@ -1,0 +1,18 @@
+<ASX xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TITLE>Écoutez la tribune sur François-Xavier Aubry</TITLE>
+  <PARAM NAME="isJeunesse" VALUE="False" />
+  <PARAM NAME="isVirtualClip" VALUE="False" />
+  <ENTRY>
+    <REF HREF="http://medias-wm.radio-canada.ca/diffusion/2010/medianet/CBF/DeRemarquablesOublies201001210200_m.wma" />
+    <DURATION VALUE="00:55:00.000" />
+    <PARAM NAME="ASX" VALUE="http://www.radio-canada.ca/Medianet/2010/CBF/DeRemarquablesOublies201001210200_m.asx" />
+    <PARAM NAME="isVideo" VALUE="False" />
+    <PARAM NAME="fileType" VALUE="wma" />
+    <PARAM NAME="isLive" VALUE="false" />
+    <PARAM NAME="emission" VALUE="De remarquables oubliés" />
+    <PARAM NAME="chaine" VALUE="CBF" />
+    <PARAM NAME="diffusion" VALUE="integral" />
+    <PARAM NAME="station" VALUE="Montréal" />
+    <STARTTIME VALUE="00:00:00.000" />
+  </ENTRY>
+</ASX>
