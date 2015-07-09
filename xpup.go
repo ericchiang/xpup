@@ -32,7 +32,7 @@ func usage() {
 flags:
 
     -f   Read from a given input file rather than from stdin.
-    -n   If present xpup will omit the new line at the printed result.
+    -n   If present, xpup will omit the trailing new line in the result.
 
 `)
 }
