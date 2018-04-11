@@ -2,7 +2,7 @@
 
 xpup is pup for XML.
 
-It uses xpath rather than css selectors.
+It uses XPath rather than CSS selectors.
 
 ## Install
 
@@ -15,17 +15,15 @@ Binary installs coming soon.
 ## Example
 
 ```
-$ curl -s http://www.xmlfiles.com/examples/note.xml
-<?xml version="1.0" encoding="ISO8859-1" ?>
+$ curl -s https://www.w3schools.com/xml/note.xml
+<?xml version="1.0" encoding="UTF-8"?>
 <note>
   <to>Tove</to>
   <from>Jani</from>
   <heading>Reminder</heading>
   <body>Don't forget me this weekend!</body>
 </note>
-```
 
-```
-$ curl -s http://www.xmlfiles.com/examples/note.xml | xpup '/*/body'
+$ curl -sL https://www.w3schools.com/xml/note.xml | xpup '/*/body'
 Don't forget me this weekend!
 ```
